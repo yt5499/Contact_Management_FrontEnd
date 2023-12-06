@@ -1,0 +1,93 @@
+/* Global styles */
+body {
+    font-family: sans-serif;
+  }
+
+  /* Header */
+  header {
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: skyblue;
+  }
+
+  header h1,h1 {
+    font-size: 24px;
+    margin: 0;
+    text-align: center;
+  }
+
+  
+
+  /* Main content */
+  main {
+    padding: 20px;
+  }
+
+  .dbutton{
+    text-align: right;
+    margin-left: 60%;
+    background-color: palevioletred;
+  }
+
+  .cbutton{
+    background-color: skyblue;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+
+  th {
+    background-color: #eee;
+  }
+
+  .cen{
+    text-align: center;
+  }
+
+  .actions {
+    text-align: center;
+  }
+
+  .actions a {
+    margin-right: 5px;
+  }
+
+  .abutton{
+    background-color: skyblue;
+
+  }
+
+  .bbutton{
+    margin-top: 15px;
+    background-color: skyblue;
+  }
+
+
+  .contactForm{
+    padding-left: 37%;
+  }
+
+  .col-25{
+    width: 25%;
+    float: left;
+    margin-top: 6px;
+  }
+
+  .col-75 {
+    width: 75%;
+    float: left;
+    margin-top: 6px;
+  }
+
+  .sbutton{
+    margin-left: 40%;
+    margin-top: 10px;
+  }
